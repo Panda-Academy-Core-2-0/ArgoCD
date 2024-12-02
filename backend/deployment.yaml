@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: pandaacademy/backend:RC-1.81fb372
+        image: pandaacademy/backend:RC-2.81fb372
         ports:
         - containerPort: 5001
